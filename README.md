@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saumyashahi
-- 👀 I’m interested in practical solutions
+- 👀 I’m interested in creating practical solutions
 - 🌱 I’m currently cybersecurity fundamentals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saumyashahi05@gmail.com
