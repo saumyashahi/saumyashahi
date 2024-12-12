@@ -1,4 +1,4 @@
-# 💻 Saumya/saumyashahi]
+# 💻 Saumya/saumyashahi
 
 ## 👋 Welcome to My GitHub
 
