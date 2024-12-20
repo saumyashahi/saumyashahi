@@ -10,10 +10,10 @@ Hi! I'm a second-year B.Tech Computer Science and Engineering student specializi
 
 ## 🌟 About Me
 
-- 🔭 **Current Focus**: Exploring Chromium and C++ for Google Summer of Code (GSoC'25).
+- 🔭 **Current Focus**: Exploring Sugarlabs for Open source contributions.
 - 🌱 **Learning**: AI/ML concepts, DSA and Web development with MERN Stack.
 - 🎯 **Interests**: Building innovative solutions for social good.
-- 💬 **Ask Me About**: C++, Java, Python, AI/ML, cybersecurity, and database management.
+- 💬 **Ask Me About**: C++, Java, Python, AI/ML,web dev, cybersecurity, and database management.
 - 📫 **How to Reach Me**: [saumya23bcy18@iiitkottayam.ac.in](mailto:saumya23bcy18@iiitkottayam.ac.in)
 - ⚡ **Fun Fact**: I'm an avid singer and dancer and I love choreographing quirky routines!
 
