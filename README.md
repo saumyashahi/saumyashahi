@@ -23,7 +23,7 @@ Hi! I'm a second-year B.Tech Computer Science and Engineering student specializi
 
 | Project Name                 | Description                                  | Tech Stack               | Status      |   |
 | ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | - |
-| **Chromium Setup**           | Initial setup and contributions to Chromium  | C++, Build Tools         | In Progress |   |
+| **Sugarlabs Website**           | Open source contributions  | Pyhton, Javascript, Build Tools         | In Progress |   |
 | **My Portfolio**             | A website to showcase my projects and skills | Reactjs,  Tailwind CSS,  | In Progress |   |
 | **IIITK Placement Cell Website** | Official Training and Placement site IIITK   | NextJs, React            | Completed   |   |
 
@@ -64,7 +64,7 @@ Hi! I'm a second-year B.Tech Computer Science and Engineering student specializi
 ## 🌍 Community Impact
 
 ### Open Source Contributions
-Contributing to Chromium’s codebase and exploring potential projects for GSoC'25.
+Contributing to Sugarlabs’s codebase and exploring potential projects for GSoC'25.
 
 ---
 
