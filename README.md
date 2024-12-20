@@ -23,7 +23,7 @@ Hi! I'm a second-year B.Tech Computer Science and Engineering student specializi
 
 | Project Name                 | Description                                  | Tech Stack               | Status      |   |
 | ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | - |
-| **Sugarlabs **           | Open source contributions to its projects | Pyhton, Javascript, Build Tools         | In Progress |   |
+| **Sugarlabs**           | Open source contributions to its projects | Pyhton, Javascript, Build Tools         | In Progress |   |
 | **My Portfolio**             | A website to showcase my projects and skills | Reactjs,  Tailwind CSS,  | In Progress |   |
 | **IIITK Placement Cell Website** | Official Training and Placement site IIITK   | NextJs, React            | Completed   |   |
 
