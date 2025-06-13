@@ -11,21 +11,11 @@ Hi! I'm a second-year B.Tech Computer Science and Engineering student specializi
 ## 🌟 About Me
 
 - 🔭 **Current Focus**: Contributing to Sugarlabs under GSoC'25, and Research on Quantum Crypanalysis.
-- 🌱 **Learning**: AI/ML concepts, DSA and Web development with MERN Stack.
+- 🌱 **Learning**: Post Quantum Crypto, Cybersec, DSA and Web dev.
 - 🎯 **Interests**: Building innovative solutions for social good.
 - 💬 **Ask Me About**: C++, Java, Python, AI/ML,web dev,Quantum Computing, cybersecurity, and database management.
 - 📫 **How to Reach Me**: [saumya23bcy18@iiitkottayam.ac.in](mailto:saumya23bcy18@iiitkottayam.ac.in)
 - ⚡ **Fun Fact**: I'm an avid singer and dancer and I love choreographing quirky routines!
-
----
-
-## 💼 Projects & Contributions
-
-| Project Name                 | Description                                  | Tech Stack               | Status      |   |
-| ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | - |
-| **Sugarlabs**           | Open source contributions to its projects | Pyhton, Javascript, Build Tools         | In Progress |   |
-| **My Portfolio**             | A website to showcase my projects and skills | Reactjs,  Tailwind CSS,  | In Progress |   |
-| **IIITK Placement Cell Website** | Official Training and Placement site IIITK   | NextJs, React            | Completed   |   |
 
 ---
 
